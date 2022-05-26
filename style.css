@@ -314,3 +314,11 @@ body {
     background-color: white !important;
     border-color: white !important;
 }
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li a {
+    color: white !important;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a {
+    color: #515151 !important;
+}

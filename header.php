@@ -32,7 +32,7 @@
 				<div class="col site-header__logo d-flex justify-content-center justify-content-md-start">
 					<!-- <?php the_custom_logo(); ?> -->
 					<a href="<?php echo get_home_url(); ?>" class="navbar-brand">
-						<img class="logo" height="40" src="<?php echo get_stylesheet_directory_uri() ?>/img/logo.svg">
+						<img class="logo" width=100% height="72px" src="<?php echo get_stylesheet_directory_uri() ?>/img/logo3.svg">
 					</a> <!-- brand end.// -->
 				</div>
 

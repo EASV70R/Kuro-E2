@@ -19,7 +19,7 @@
     <div class="row">
       <aside class="col-12 col-sm-12 col-lg-3">
         <article class="me-lg-4">
-          <img src="<?php echo get_stylesheet_directory_uri() ?>/images/logowhitesvg.svg" class="logo-footer">
+          <img src="<?php echo get_stylesheet_directory_uri() ?>/img/logow2.svg" class="logo-footer">
           <p class="mt-3"> Kuro © 2021</p>
         </article>
       </aside>
@@ -44,7 +44,7 @@
       <ul class="list-menu mb-4">
           <li><p>Address: <br> Spangsbjerg Kirkevej 103, 6700 Esbjerg </p></li>
           <li><p>Phone: <br> +45 76 13 32 00 </p></li>
-          <li><p>Opening hours: 08AM-03PM</li>
+          <li><p>Operating hours: 08AM-06PM</li>
         </ul>
       </aside>
       <aside class="col-12 col-sm-12 col-lg-3">

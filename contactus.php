@@ -9,7 +9,7 @@
         </div>
         <div class="row">
             <div class="col-md-6 mt-3">
-                <p>Founded in 2021, Kuro is headquartered in Denmark with regional headquarters in Hamburg, Shanghai and
+                <p>Founded in 2022, Kuro is headquartered in Denmark with regional headquarters in Hamburg, Shanghai and
                     Singapore.
                     Kuro has 18 offices worldwide and is recognized as the leading brand for gamers in the USA, Europe
                     and China.</p>

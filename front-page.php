@@ -47,7 +47,7 @@ get_header();
 		</section>
 
 
-		<section class="bg-light padding-y">
+<section class="bg-light padding-y">
 <div class="container">
 
 	<header class="section-heading mt-2 mb-5">
@@ -123,7 +123,7 @@ get_header();
 					</span>
 				</div>
 				<figcaption class="info">
-					<h6 class="title">Thousand items</h6>
+					<h6 clas__s="title">Thousand items</h6>
 				</figcaption>
 			</figure> <!-- itemside // -->
 		</div> <!-- col // -->
