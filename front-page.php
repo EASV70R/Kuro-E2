@@ -134,7 +134,7 @@ get_header();
 		<section class="container pt-5 special-offers">
 			<h1 class="text-center pt-5">Popular products</h1>
 			<div class="pt-5 pb-5">
-				<?php echo do_shortcode( '[products popularity  columns=4 limit=4]' ); ?>
+			<?php echo do_shortcode( '[products popularity  columns=4 limit=3]' ); ?>
 			</div>
 		</section>
 

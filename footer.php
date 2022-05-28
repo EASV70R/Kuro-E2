@@ -33,7 +33,7 @@
       <aside class="col-6 col-sm-4 col-lg-2">
         <h6 class="title">Information</h6>
         <ul class="list-menu mb-4">
-          <li> <a href="#">Help center</a></li>
+          <li> <a href="<?php echo get_site_url(); ?>/support">Help center</a></li>
           <li> <a href="#">Money refund</a></li>
           <li> <a href="#">Shipping info</a></li>
           <li> <a href="#">Refunds</a></li>
