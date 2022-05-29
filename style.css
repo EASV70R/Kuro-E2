@@ -3,6 +3,7 @@ Theme Name: KuroE
 Author: Torben, Apdo
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 html {
     padding: 0;
     margin: 0;
@@ -21,6 +22,10 @@ body {
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
+}
+
+header {
+    font-family: 'Rubik', sans-serif;
 }
 
 .img-slider-background:before {
