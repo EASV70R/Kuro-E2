@@ -3,14 +3,14 @@ Theme Name: KuroE
 Author: Torben, Apdo
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
 html {
     padding: 0;
     margin: 0;
 }
 
 body {
-    font-family: Open Sans, sans-serif;
+    font-family: 'Roboto', sans-serif;
     padding: 0;
     margin: 0;
     color: #444444;
@@ -24,8 +24,23 @@ body {
     flex-direction: column;
 }
 
+h6,
+.h6,
+h5,
+.h5,
+h4,
+.h4,
+h3,
+.h3,
+h2,
+.h2,
+h1,
+.h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
 header {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .img-slider-background:before {
@@ -227,8 +242,8 @@ header {
 }
 
 .btn-primary {
-    background-color: #517bbe !important;
-    border-color: #517bbe !important;
+    background-color: #A269FF !important;
+    border-color: #A269FF !important;
 }
 
 .btn-light:hover {
@@ -240,23 +255,23 @@ header {
 }
 
 .float-end .btn-light:hover i {
-    color: #517bbe !important;
+    color: #A269FF !important;
 }
 
 .woocommerce ul.products li.product .button {
-    background-color: #517bbe !important;
-    border-color: #517bbe !important;
+    background-color: #A269FF !important;
+    border-color: #A269FF !important;
 }
 
 .woocommerce ul.products li.product .onsale {
-    background-color: #517bbe !important;
-    border-color: #517bbe !important;
+    background-color: #A269FF !important;
+    border-color: #A269FF !important;
     color: white !important;
 }
 
 .woocommerce span.onsale {
-    background-color: #517bbe !important;
-    border-color: #517bbe !important;
+    background-color: #A269FF !important;
+    border-color: #A269FF !important;
     color: white !important;
 }
 
@@ -270,8 +285,8 @@ header {
 }
 
 .woocommerce div.product .woocommerce-tabs ul.tabs li {
-    border: 1px solid #517bbe;
-    background-color: #517bbe !important;
+    border: 1px solid #A269FF;
+    background-color: #A269FF !important;
 }
 
 .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
@@ -283,8 +298,8 @@ header {
 .woocommerce button.button.alt,
 .woocommerce input.button.alt,
 .woocommerce #respond input#submit.alt {
-    background-color: #517bbe !important;
-    border-color: #517bbe !important;
+    background-color: #A269FF !important;
+    border-color: #A269FF !important;
     color: white !important;
 }
 
@@ -292,25 +307,25 @@ header {
 .woocommerce button.button,
 .woocommerce input.button,
 .woocommerce #respond input#submit {
-    background-color: #517bbe !important;
-    border-color: #517bbe !important;
+    background-color: #A269FF !important;
+    border-color: #A269FF !important;
     color: white !important;
 }
 
 .woocommerce #reviews #comments ol.commentlist li img.avatar {
-    background: #517bbe !important;
-    border: 1px solid #517bbe !important;
+    background: #A269FF !important;
+    border: 1px solid #A269FF !important;
 }
 
 .woocommerce #reviews #comments ol.commentlist li .comment-text {
-    border: 1px solid #517bbe !important;
+    border: 1px solid #A269FF !important;
 }
 
 .woocommerce-message,
 .woocommerce-error,
 .woocommerce-info {
-    background-color: #517bbe !important;
-    border: 3px solid #517bbe !important;
+    background-color: #A269FF !important;
+    border: 3px solid #A269FF !important;
 }
 
 .woocommerce-cart #payment,
@@ -326,4 +341,35 @@ header {
 
 .woocommerce div.product .woocommerce-tabs ul.tabs li.active a {
     color: #515151 !important;
+}
+
+.product_meta a {
+    color: #A269FF !important;
+}
+
+.bi-bag-dash::before {
+    color: #A269FF !important;
+}
+
+.cart-customlocation {
+    color: #A269FF !important;
+}
+
+.overlay-gradient:before {
+    background: linear-gradient(to bottom right, #A269FF, #FFF969);
+}
+
+
+/*.navbar-nav .nav-item .nav-link {
+    color: red;
+}
+
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: pink;
+}*/
+
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: #A269FF;
 }

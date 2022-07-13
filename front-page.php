@@ -19,7 +19,7 @@ get_header();
 
 	
 	<section class="section-intro">
-<div class="card-banner overlay-gradient" style="min-height:350px; background-image: url('<?php echo get_stylesheet_directory_uri() ?>/images/posts/2.jpg');">
+<div class="card-banner overlay-gradient" style="min-height:350px; background-image: url('https://wallup.net/wp-content/uploads/2016/07/19/1944-CPU-hardware.jpg');">
   <div class="card-img-overlay">
 	  
 	<div class="container">
@@ -28,8 +28,8 @@ get_header();
 	 
 	    <h1 class="display-4 text-white"> Best hardware & <br> cheap components in our store  </h1>
 	    <p class="lead text-white">Gaming, media or working stations, we got anything you need!</p>
-	    <a href="#" class="btn btn-primary"> Purchase now</a> 
-	    <a href="#" class="btn btn-light"> Learn more </a>
+	    <a href="<?php echo get_site_url(); ?>/shop" class="btn btn-primary"> Purchase now</a> 
+	    <a href="<?php echo get_site_url(); ?>/about-us" class="btn btn-light"> Learn more </a>
 	
 	  </article>
 	 
