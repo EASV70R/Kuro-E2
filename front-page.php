@@ -30,7 +30,7 @@ get_header();
 	    <p class="lead text-white">Gaming, media or working stations, we got anything you need!</p>
 	    <a href="<?php echo get_site_url(); ?>/shop" class="btn btn-primary"> Purchase now</a> 
 	    <a href="<?php echo get_site_url(); ?>/about-us" class="btn btn-light"> Learn more </a>
-	
+		<div class="star-rating"><span></span></div>
 	  </article>
 	 
 </div>
@@ -121,13 +121,22 @@ get_header();
 					<span class="rounded-circle shadow-sm text-primary icon-lg bg-white">
 						<i class="fa fa-box" style="color: #282d32;"></i>
 					</span>
+					
 				</div>
 				<figcaption class="info">
 					<h6 clas__s="title">Thousand items</h6>
 				</figcaption>
 			</figure> <!-- itemside // -->
 		</div> <!-- col // -->
+		
+		<div class="d-flex justify-content-center">		
+		<div class=youtube-container>
+     <iframe src="https://www.youtube.com/embed/UX3ermtttUU" frameborder="0" allowfullscreen></iframe>
+</div>
 	</div>
+</div>
+</div>
+
 </div> <!-- container end.// -->
 </section>
 

@@ -19,8 +19,8 @@
     <div class="row">
       <aside class="col-12 col-sm-12 col-lg-3">
         <article class="me-lg-4">
-          <img src="<?php echo get_stylesheet_directory_uri() ?>/img/logow2.svg" class="logo-footer">
-          <p class="mt-3"> Kuro © 2021</p>
+          <img src="<?php echo get_stylesheet_directory_uri() ?>/img/Asset_6.png" class="logo-footer">
+          <p class="mt-3"> Kuro © 2022</p>
         </article>
       </aside>
       <aside class="col-6 col-sm-4 col-lg-2">
@@ -55,11 +55,14 @@
 
   <section class="footer-bottom d-flex justify-content-lg-between border-top">
     <div>
-      <i class="fab fa-lg fa-cc-visa" style='color: white'></i>
-      <i class="fab fa-lg fa-cc-mastercard" style='color: white'></i>
-      <i class="fab fa-lg fa-cc-paypal" style='color: white'></i>
+      <i class="fab fa-2x fa-cc-visa" style='color: white'></i>
+      <i class="fab fa-2x fa-cc-mastercard" style='color: white'></i>
+      <i class="fab fa-2x fa-cc-paypal" style='color: white'></i>
+      
     </div>
-    
+    <div class="d-flex flex-row-reverse">
+    <a href="https://www.youtube.com/channel/UCBZMC0GBk1qt1qfAoz0cMbQ" target="_blank" class="fab fa-2x fa-brands fa-youtube" style='color: red'></a>
+</div>
   </section>
 </div> <!-- container end.// -->
 </div> <!-- container end.// -->

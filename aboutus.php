@@ -10,8 +10,13 @@
                 <a class="btn btn-lg btn-primary" href="<?php echo get_site_url(); ?>/contact-us">Get in Touch</a>
             </div>
             <div class="col-sm-4">
-            <img width="100%" height="100%" src="<?php the_field('company_image'); ?>" aria-hidden="true"
-                    preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="text-center">
+                <br>
+                <br>
+                <br>
+            <img max-width="70%" src="<?php the_field('company_image'); ?>" aria-hidden="true"
+                    preserveAspectRatio="xMidYMid slice" focusable="false" class="mx-auto d-block">
+                    </div>
             </div>
         </div>
     </div>
