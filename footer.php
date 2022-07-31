@@ -60,8 +60,9 @@
       <i class="fab fa-2x fa-cc-paypal" style='color: white'></i>
       
     </div>
-    <div class="d-flex flex-row-reverse">
+    <div class="flex-row-reverse">
     <a href="https://www.youtube.com/channel/UCBZMC0GBk1qt1qfAoz0cMbQ" target="_blank" class="fab fa-2x fa-brands fa-youtube" style='color: red'></a>
+    <a href="https://www.youtube.com/channel/UCBZMC0GBk1qt1qfAoz0cMbQ" target="_blank" class="fab fa-2x fa-brands fa-facebook" ></a>
 </div>
   </section>
 </div> <!-- container end.// -->

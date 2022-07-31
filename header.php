@@ -18,6 +18,15 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
 	<?php wp_head(); ?>
+
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-VFKCRD8Q3Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VFKCRD8Q3Q');
+</script>
 </head>
 
 <body <?php body_class(); ?>>
